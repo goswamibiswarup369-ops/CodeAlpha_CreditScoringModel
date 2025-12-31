@@ -7,9 +7,9 @@ Features: income, age, loan amount, payment history, credit score
 Logistic Regression
 Random Forest Classifier
 🔸 Workflow
-Load and clean dataset
-Handle missing values
-Feature scaling
-Train-test split
-Train model
-Evaluate (Accuracy, Precision, Recall, F1-score, ROC-AUC)
+1.Load and clean dataset
+2.Handle missing values
+3.Feature scaling
+4.Train-test split
+5.Train model
+6.Evaluate (Accuracy, Precision, Recall, 7.F1-score, ROC-AUC)
